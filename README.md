@@ -10,7 +10,7 @@ I'm a student at ALX-SE, learning about Software Engineering stuff. We focus on 
 * ✉️  You can contact me at [dumbuya366@gmail.com](mailto:dumbuya366@gmail.com)
 * 🚀  I'm currently working on [AI assistant that can interact with human](http://github.com/Dumbuya1475/EdTech-Speech_recognisation)
 * 🧠  I'm learning Python, JS, html, css, C, SQL, MySql and Networking
-* 🤝  I'm open to collaborating on AI projects and web projects
+* 🤝  I'm open to collaborating on AI projects and web development projects
 * ⚡  I am Secretly Super-Man but don't tell anyone
 
 ### Skills
