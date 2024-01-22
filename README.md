@@ -6,12 +6,12 @@ Software Engineer
 
 I'm a student at ALX-SE, learning about Software Engineering stuff. We focus on real-world tech and work together on projects. It's cool because I get to understand how things work and solve problems with my classmates and mentors.
 
-* 🌍  I'm based in Sierra leone
+* 🌍  I'm based in Freetown-Sierra leone
 * ✉️  You can contact me at [dumbuya366@gmail.com](mailto:dumbuya366@gmail.com)
 * 🚀  I'm currently working on [AI assistant that can interact with human](http://github.com/Dumbuya1475/EdTech-Speech_recognisation)
 * 🧠  I'm learning Python, JS, html, css, C, SQL, MySql and Networking
 * 🤝  I'm open to collaborating on AI projects and web development projects
-* ⚡  I am Secretly Super-Man but don't tell anyone
+* ⚡  Fun fact: I am Secretly Super-Man but don't tell anyone
 
 ### Skills
 
