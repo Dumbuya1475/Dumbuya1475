@@ -3,6 +3,8 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 Software Engineer
 -----------------
+![Static Badge](https://img.shields.io/badge/:badgeContent)
+
 
 I'm a student at ALX-SE, learning about Software Engineering stuff. We focus on real-world tech and work together on projects. It's cool because I get to understand how things work and solve problems with my classmates and mentors.
 
