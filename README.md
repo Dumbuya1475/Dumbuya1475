@@ -1,6 +1,6 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Mohamed Super Dumbuya
 =============================================================================================================================================
-<h3 align="center">I'm a student at ALX-SE, learning about Software Engineering stuff. We focus on real-world tech and work together on projects. It's cool because I get to understand how things work and solve problems with my classmates and mentors.</h3>
+<h3 align="left">I'm a student at ALX-SE, learning about Software Engineering stuff. We focus on real-world tech and work together on projects. It's cool because I get to understand how things work and solve problems with my classmates and mentors.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dumbuya1475&label=Profile%20views&color=0e75b6&style=flat" alt="dumbuya1475" /> </p>
 
