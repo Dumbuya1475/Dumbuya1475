@@ -13,10 +13,12 @@ I've been learning to code for 1 year, after switching career. I started with HT
 * 🤝  I'm open to collaborating on web based projects and AI
 * ⚡  I learn by doing
 
-<a href="https://www.github.com/Dumbuya1475" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers//Dumbuya1475?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.x.com/msdumbuya1475" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/msdumbuya1475?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
-/></a>
+<a href="https://www.github.com/Dumbuya1475" target="_blank" rel="noreferrer">
+  <img src="https://img.shields.io/github/followers/Dumbuya1475?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" />
+</a>
+<a href="https://www.x.com/msdumbuya1475" target="_blank" rel="noreferrer">
+  <img src="https://img.shields.io/twitter/follow/msdumbuya1475?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917" />
+</a>
 
 ### Skills
 
