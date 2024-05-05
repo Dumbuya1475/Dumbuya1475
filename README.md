@@ -13,10 +13,12 @@ I've been learning to code for 1 year, after switching career. I started with HT
 * 🤝  I'm open to collaborating on web based projects and AI
 * ⚡  I learn by doing
 
-<a href="https://www.github.com//Dumbuya1475" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers//Dumbuya1475?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.x.com/msdumbuya1475" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/msdumbuya1475?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
-/></a>
+<a href="https://www.github.com/Dumbuya1475" target="_blank" rel="noreferrer">
+  <img src="https://img.shields.io/github/followers/Dumbuya1475?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" />
+</a>
+<a href="https://www.x.com/msdumbuya1475" target="_blank" rel="noreferrer">
+  <img src="https://img.shields.io/twitter/follow/msdumbuya1475?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917" />
+</a>
 
 ### Skills
 
@@ -34,18 +36,45 @@ src="https://img.shields.io/twitter/follow/msdumbuya1475?logo=twitter&style=for-
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com//Dumbuya1475"><img src="https://github-readme-stats.vercel.app/api?username=/Dumbuya1475&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="/Dumbuya1475's GitHub stats" /></a>
+<a href="http://www.github.com/Dumbuya1475">
+  <img src="https://github-readme-stats.vercel.app/api?username=Dumbuya1475&show_icons=true&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" alt="Dumbuya1475's GitHub stats" />
+</a>
 
-<a href="http://www.github.com//Dumbuya1475"><img src="https://github-readme-streak-stats.herokuapp.com/?user=/Dumbuya1475&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<a href="http://www.github.com//Dumbuya1475"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=/Dumbuya1475&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+<a href="https://github.com/Dumbuya1475">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dumbuya1475&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
+</a>
 
-<a href="https://github.com//Dumbuya1475" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=/Dumbuya1475&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+![Dumbuya's Graph](https://github-readme-activity-graph.vercel.app/graph?username=Dumbuya1475&custom_title=Dumbuya1475%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+
+
+<a href="https://github.com/Dumbuya1475" align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dumbuya1475&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages" />
+</a>
+
 
 <b>Top Repositories</b>
 
-<div width="100%" align="center"><a href="https://github.com//Dumbuya1475/ EdTech-Speech_recognisation" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=/Dumbuya1475&repo= EdTech-Speech_recognisation&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com//Dumbuya1475/School-Management-System" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=/Dumbuya1475&repo=School-Management-System&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+<div style="width: 100%; text-align: center;">
+  <a href="https://github.com/Dumbuya1475/EdTech-Speech_recognisation" style="float: left;">
+    <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Dumbuya1475&repo=EdTech-Speech_recognisation&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" />
+  </a>
+  <a href="https://github.com/Dumbuya1475/School-Management-System" style="float: right;">
+    <img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Dumbuya1475&repo=School-Management-System&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" />
+  </a>
+</div>
+<br /><br /><br /><br /><br /><br /><br />
+
 
 <br /><br /><br /><br /><br />
 
-<div width="100%" align="center"><a href="https://github.com//Dumbuya1475/alx-higher_level_programming " align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=/Dumbuya1475&repo=alx-higher_level_programming &title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com//Dumbuya1475/My_Portofolio " align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=/Dumbuya1475&repo=My_Portofolio &title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
+<div style="width: 100%; text-align: center;">
+  <a href="https://github.com/Dumbuya1475/alx-higher_level_programming" style="float: left;">
+    <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Dumbuya1475&repo=alx-higher_level_programming&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" />
+  </a>
+  <a href="https://github.com/Dumbuya1475/My_Portofolio" style="float: right;">
+    <img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Dumbuya1475&repo=My_Portofolio&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" />
+  </a>
+</div>
+
