@@ -6,12 +6,12 @@ Software Engineer
 
 I've been learning to code for 1 year, after switching career. I started with HTML, but have really found a passion for backend development...
 
-* 🌍  I'm based in Sierra Leone
-* ✉️  You can contact me at [dumbuya366@gmail.com](mailto:dumbuya366@gmail.com)
-* 🚀  I'm currently working on [eLearning platform](http://dumbuya1475.github.io/eLearning/)
-* 🧠  I'm learning SQL, JS, TS, Python, Networking
-* 🤝  I'm open to collaborating on web based projects and AI
-* ⚡  I learn by doing
+* 🌍  I'm based in Sierra Leone.
+* ✉️  You can contact me at [dumbuya366@gmail.com](mailto:dumbuya366@gmail.com).
+* 🚀  I'm currently working on [eLearning platform](http://dumbuya1475.github.io/eLearning/).
+* 🧠  I'm learning SQL, JS, TS, Python, Networking.
+* 🤝  I'm open to collaborating on web based projects and AI.
+* ⚡  I learn by doing.
 
 <a href="https://www.github.com/Dumbuya1475" target="_blank" rel="noreferrer">
   <img src="https://img.shields.io/github/followers/Dumbuya1475?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" />
