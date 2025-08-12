@@ -8,8 +8,6 @@
 I’m passionate about solving real problems with clean, scalable web interfaces. I co-founded **Tech Inspire SL** to guide students into tech careers and I’ve built platforms like:
 
 - 🎓 [**UniGuide**](https://msdumbuya.tech) — career and university guidance tool
-- 🏫 **AdminEase** — school admin system (in progress)
-- 🎟️ **EventSync** — event and QR code attendance manager (beta)
 
 ---
 
@@ -22,8 +20,6 @@ I’m passionate about solving real problems with clean, scalable web interfaces
 ---
 
 ## 🔥 Current Focus
-
-- 🌐 Improving **AdminEase** + **EventSync** UI/UX
 - 🔍 Learning **backend with Supabase & Firebase**
 - 💡 Exploring **AI tools** to power learning & student support
 - 📚 Writing technical articles on [Hashnode](https://msdumbuya1475.hashnode.dev)
