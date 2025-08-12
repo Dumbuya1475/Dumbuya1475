@@ -5,8 +5,6 @@
 
 ---
 
-![Welcome GIF](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
-
 I’m passionate about solving real problems with clean, scalable web interfaces. I co-founded **Tech Inspire SL** to guide students into tech careers and I’ve built platforms like:
 
 - 🎓 [**UniGuide**](https://msdumbuya.tech) — career and university guidance tool
