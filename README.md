@@ -7,8 +7,6 @@
 
 I’m passionate about solving real problems with clean, scalable web interfaces. I co-founded **Tech Inspire SL** to guide students into tech careers and I’ve built platforms like:
 
-- 🎓 [**UniGuide**](https://msdumbuya.tech) — career and university guidance tool
-
 ---
 
 ## 🛠️ Tech Stack
