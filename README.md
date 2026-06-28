@@ -1,12 +1,16 @@
 # 👋 Hello, I’m Mohamed Super Dumbuya
 
-🚀 Frontend Engineer | 👨🏾‍💻 Co-founder @ Tech Inspire SL | 💡 Builder of impactful web platforms  
-🌍 Based in Sierra Leone | 💻 Working with React, Firebase, Supabase, Tailwind, and more
+🚀 Frontend Web Developer | 🌍 Building websites for businesses & organizations  
+👨🏾‍💻 Co-founder @ Tech Inspire SL  
+💡 Focused on real-world, freelance-ready web development using modern tools
 
 ---
 
-I’m passionate about solving real problems with clean, scalable web interfaces. I co-founded **Tech Inspire SL** to guide students into tech careers and I’ve built platforms like:
+I am a Frontend Web Developer focused on building clean, responsive, and user-friendly websites for businesses, startups, and organizations.
 
+I enjoy turning ideas into structured digital products using React, JavaScript, and modern frontend tools, with a strong focus on usability and real-world application.
+
+I have built and contributed to real projects including business and nonprofit websites that help organizations present their mission, products, and impact online.
 ---
 
 ## 🛠️ Tech Stack
@@ -18,10 +22,10 @@ I’m passionate about solving real problems with clean, scalable web interfaces
 ---
 
 ## 🔥 Current Focus
-- 🔍 Learning **backend with Supabase & Firebase**
-- 💡 Exploring **AI tools** to power learning & student support
-- 📚 Writing technical articles on [Hashnode](https://msdumbuya1475.hashnode.dev)
-
+- 🔍 Building real-world, freelance-ready web projects
+- ⚙️ Improving frontend development and project delivery consistency
+- 🌐 Expanding portfolio with business and organization websites
+- 📚 Learning backend integration using Firebase & Supabase
 ---
 
 ## 📬 Contact
@@ -32,6 +36,9 @@ I’m passionate about solving real problems with clean, scalable web interfaces
 - 📧 Email: [msdumbuya1475@gmail.com](mailto:msdumbuya1475@gmail.com)
 
 ---
+
+## 🎯 What I’m Open To
+I am open to freelance and collaboration opportunities involving website development, frontend engineering, and digital platform building for businesses and organizations.
 
 ## 📊 GitHub Stats
 
